@@ -1,6 +1,6 @@
 # Gyrobot — Projet Arduino
 
-Ce dépôt contient plusieurs sketches Arduino utilisés pour le projet "Gyrobot", un robot capable capable de s'équilibrer tout seul. Ce README explique la structure du dossier, comment compiler/téléverser les sketches et comment contribuer.
+Développement d'un robot auto-équilibrant à deux roues utilisant le capteur MPU6050 pour mesurer l'inclinaison et la vitesse. Le robot se stabilise verticalement, maintient une direction et conserve une vitesse constante. Les défis incluent l'intégration des composants électroniques, la programmation des contrôleurs PID et l'adaptation aux variations des composants.
 
 ## Description
 
